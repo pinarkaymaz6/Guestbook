@@ -16,5 +16,5 @@ View the application on Google AppEngine: https://guest-book-exercise.appspot.co
 ### List all greetings  
 endpoint : /api/guestbook
 
-### Fetch a specific entry  
+### Get a specific greeting by ID  
 endpoint : /api/guestbook/{id}
