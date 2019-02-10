@@ -9,7 +9,6 @@ The server is running at http://localhost:8080/
 
 
 **Deploy the application to AppEngine**  
-View the application on Google AppEngine: https://guest-book-exercise.appspot.com/
 > mvn appengine:update  
 
 ## Guestbook API
