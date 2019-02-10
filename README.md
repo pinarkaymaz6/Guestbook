@@ -1,6 +1,5 @@
 # Guestbook
 Guestbook on Google AppEngine: https://guest-book-exercise.appspot.com/  
-Google AppEngine, Restlet and Maven
 
 ## Build and Deploy
 
