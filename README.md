@@ -11,3 +11,10 @@ The server is running at http://localhost:8080/
 View the application on Google AppEngine: https://guest-book-exercise.appspot.com/
 > mvn appengine:update  
 
+##Guestbook API
+
+###List all greetings  
+endpoint : /api/guestbook
+
+###Fetch a specific entry  
+endpoint : /api/guestbook/{id}
